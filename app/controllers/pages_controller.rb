@@ -12,4 +12,9 @@ class PagesController < ApplicationController
 
   end
 
+   def helo
+    @title = "Help"
+
+  end
+
 end
